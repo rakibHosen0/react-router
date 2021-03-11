@@ -1,0 +1,13 @@
+.teams {
+  padding-top: 2rem;
+  background-color: rgb(60, 60, 119);
+  padding-bottom: 4rem;
+}
+.team-container {
+  width: 65%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 2rem;
+  column-gap: 1rem;
+}

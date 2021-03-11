@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header-hero {
+  background-image: url(../../images/hero.jpg);
+  width: 100%;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
